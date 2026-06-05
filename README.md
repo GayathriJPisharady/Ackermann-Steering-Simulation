@@ -34,4 +34,5 @@ This project demonstrates Ackermann steering geometry through a Python-based sim
 ## Author
 
 Gayathri J Pisharady
+
 Government Engineering College, Palakkad
