@@ -21,6 +21,7 @@ This project demonstrates Ackermann steering geometry through a Python-based sim
 
 * `ackermann_simulation.py` – Main simulation code
 * `report.pdf` – Project report
+* `correct ackermann steering simulation` - Ackermann angle output
 * `combined-simulation-results.jpeg` – Simulation output
 * `steering-angles-vs-time.jpeg` – Steering angle analysis
 
